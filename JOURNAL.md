@@ -1,6 +1,6 @@
 ---
 title: HACKPAD
 author: Joel Mathews
-description: simple hackpad - use tbd
+description: Spotify Hub
 created_at: 2025-06-04
 ---

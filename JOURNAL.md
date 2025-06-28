@@ -27,3 +27,6 @@ I was in a call with friends also working on their highway projects. Wired up al
 ![Screenshot 2025-06-11 204232](https://github.com/user-attachments/assets/86f493c8-0cf9-40de-b806-001bc6b5dc4a)
 ![Screenshot 2025-06-11 220302](https://github.com/user-attachments/assets/7f31e55f-7e0e-4f2e-a9ab-b676e526e2f4)
 ![Screenshot 2025-06-11 223827](https://github.com/user-attachments/assets/5122ff14-c85b-47ae-8787-a67b7cb2b044)
+
+
+Working ont the ketch

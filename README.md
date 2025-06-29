@@ -1,5 +1,5 @@
 # The Player 
-This is my highway hackpad! It's used for controlling my spotify using a song backwards, pause/play, forwards and open spotify buttons. I also have a button dedicated to taking screenshots (as I've found this one to be annoying).
+This is my highway hackpad! It's used for controlling my spotify using a song backwards, pause/play, forwards and open spotify buttons. It has a rotary encoder for changing the volume, and I will try to display current song on the OLED. I also have a button dedicated to taking screenshots (as I've found this one to be annoying).
 I did this project as it was a starter project I heard of when I did Hackclub juice and wished I hearded about it sooner, but now I got my opportunity!
 
 # Schematic and PCB

@@ -3,7 +3,7 @@ This is my highway hackpad! It's used for controlling my spotify using a song ba
 I did this project as it was a starter project I heard of when I did Hackclub juice and wished I hearded about it sooner, but now I got my opportunity!
 
 # Schematic and PCB
-![Screenshot 2025-06-11 195620](https://github.com/user-attachments/assets/20746f49-4f09-4b0a-853f-62820699f091)
+![Screenshot 2025-06-11 204232](https://github.com/user-attachments/assets/30a741cc-91ce-4209-a5a5-072a2d75a2cf)
 ![image](https://github.com/user-attachments/assets/b974b2b4-7c65-4ab2-9d24-ced2e632f1fc)
 ![Screenshot 2025-06-26 132056](https://github.com/user-attachments/assets/3e60396c-cbdd-443e-b872-717feb96d3d6)
 

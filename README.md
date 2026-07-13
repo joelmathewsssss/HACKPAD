@@ -13,6 +13,9 @@ I did this project as it was a starter project I heard of when I did Hackclub ju
 ![Screenshot 2025-06-28 195100](https://github.com/user-attachments/assets/95d1db9f-87d4-40c3-ab44-5a22ce280a8b)
 ![Screenshot 2025-06-28 194832](https://github.com/user-attachments/assets/8d639053-7bbd-4327-b3c1-c5dc84cebd0c)
 
+# Built
+<img width="1738" height="3089" alt="PXL_20260713_034445380" src="https://github.com/user-attachments/assets/2ad54e6f-ed95-4000-825d-6ccda0ae34bf" />
+<img width="1602" height="2849" alt="PXL_20260713_034439347" src="https://github.com/user-attachments/assets/242d8576-66dd-4c1f-9ba7-73b4ad8c9b5a" />
 
 
 # Components

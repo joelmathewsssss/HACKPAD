@@ -5,6 +5,33 @@ description: Spotify Hub
 created_at: 2025-06-04
 ---
 
+
+
+
+
+
+
+# Building
+
+Total: 4 Hrs
+
+08/01/25:
+2.5 Hour, 
+Got all my parts and began soldering parts onto the pcb. Some parts were a struggle like the neopixel. Once I got everything but the key switches, I put the switches through the plate and soldered them to the PCB. Put the whole thing into the case next. This is where I realized I haven't learnt anything about tolerences. Had to use my soldering irom to melt plastic around the Xiao RP2040 to get it to fit and be accessible.
+<img width="3000" height="4000" alt="IMG_20250801_064613" src="https://github.com/user-attachments/assets/acf085a4-8d21-4871-a0a3-d1ebf0d73087" />
+<img width="3000" height="4000" alt="IMG_20250801_064025" src="https://github.com/user-attachments/assets/1bd5ac2c-c6fe-4281-8baa-0458a0591e96" />
+<img width="3000" height="4000" alt="IMG_20250801_184029" src="https://github.com/user-attachments/assets/b59240ee-f29c-4363-a812-202bb35ef928" />
+
+
+07/12/26:
+1.5 Hour, 
+Finally came back to finish the Hackpad by finialzing firmware. I had tried in the past but I was out of the country with the hackpad and so I was struggling to figure it out. It was put off until now where I managed to sit down and work through it. Configured the keys to previos, play/pause, next, and forward.backwards navigation. Rotary encoder is used to change volume and the OLED Display shows a legend of Key actions.
+<img width="1602" height="2849" alt="PXL_20260713_034439347" src="https://github.com/user-attachments/assets/f48b4423-ada9-49ed-885f-e0f18b934383" />
+<img width="1738" height="3089" alt="PXL_20260713_034445380" src="https://github.com/user-attachments/assets/9316ec4c-1ed8-4d1a-8e16-7bff320eb1d3" />
+
+
+# Design
+
 Total: 25 Hrs
 
 
